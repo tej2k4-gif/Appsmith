@@ -1,0 +1,22 @@
+Column,Missing Values,Missing %
+order_id,0,0.0
+date,0,0.0
+hour,0,0.0
+customer_id,0,0.0
+customer_type,0,0.0
+restaurant_id,0,0.0
+order_channel,0,0.0
+items_count,0,0.0
+basket_value,0,0.0
+promo_code,0,0.0
+discount_amount,0,0.0
+delivery_fee,0,0.0
+delivery_time_min,0,0.0
+order_status,0,0.0
+payment_method,0,0.0
+device_platform,0,0.0
+rating,5087,10.66
+Year,0,0.0
+Month,0,0.0
+Weekday,0,0.0
+Day,0,0.0
